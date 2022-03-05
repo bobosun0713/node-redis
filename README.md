@@ -12,6 +12,8 @@ This is a project with Redis for simulating Node.js
 
 ```JavaScript=
 npm install
+
+npm run start && npm run start:mock
 ```
 
 > :warning: You must first install Redis in your system.
